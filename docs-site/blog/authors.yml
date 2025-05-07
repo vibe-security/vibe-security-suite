@@ -1,0 +1,8 @@
+vibe-security:
+  name: Vibe Security Team
+  title: Vibe Security Suite Contributors
+  url: https://github.com/vibe-security
+  image_url: https://github.com/vibe-security.png
+  page: true
+  socials:
+    github: vibe-security

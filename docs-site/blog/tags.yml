@@ -1,0 +1,34 @@
+security:
+  label: Security
+  permalink: /security
+  description: Security best practices, news, and trends
+
+ai:
+  label: AI
+  permalink: /ai
+  description: Artificial Intelligence in security and coding
+
+vibe-security:
+  label: Vibe Security Suite
+  permalink: /vibe-security
+  description: Official Vibe Security Suite posts
+
+dashboard:
+  label: Dashboard
+  permalink: /dashboard
+  description: Interactive dashboards and MDX examples
+
+announcement:
+  label: Announcement
+  permalink: /announcement
+  description: Project news and major updates
+
+welcome:
+  label: Welcome
+  permalink: /welcome
+  description: Welcome and introduction posts
+
+hola:
+  label: Hola
+  permalink: /hola
+  description: Hola tag description
