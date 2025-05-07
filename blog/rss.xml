@@ -4,55 +4,44 @@
         <title>Vibe Security Suite Blog</title>
         <link>https://vibe-security.github.io/vibe-security-suite/blog</link>
         <description>Vibe Security Suite Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 May 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://vibe-security.github.io/vibe-security-suite/blog/welcome</link>
-            <guid>https://vibe-security.github.io/vibe-security-suite/blog/welcome</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
-            <content:encoded><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
-<p>Here are a few tips you might find useful.</p>
-<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
-<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
-<p>The blog post date can be extracted from filenames, such as:</p>
+            <title><![CDATA[How AI Is Transforming Security & Coding in 2025]]></title>
+            <link>https://vibe-security.github.io/vibe-security-suite/blog/ai-trends-2025</link>
+            <guid>https://vibe-security.github.io/vibe-security-suite/blog/ai-trends-2025</guid>
+            <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Artificial Intelligence is revolutionizing both security and software development. Here’s what’s new in 2025:]]></description>
+            <content:encoded><![CDATA[<p>Artificial Intelligence is revolutionizing both security and software development. Here’s what’s new in 2025:</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ai-for-security-scanning">AI for Security Scanning<a href="https://vibe-security.github.io/vibe-security-suite/blog/ai-trends-2025#ai-for-security-scanning" class="hash-link" aria-label="Direct link to AI for Security Scanning" title="Direct link to AI for Security Scanning">​</a></h2>
+<p>Modern tools like Vibe Security Suite use AI to:</p>
 <ul>
-<li><code>2019-05-30-welcome.md</code></li>
-<li><code>2019-05-30-welcome/index.md</code></li>
+<li>Detect vulnerabilities in real time</li>
+<li>Prioritize critical issues based on context</li>
+<li>Reduce false positives so you can focus on what matters</li>
 </ul>
-<p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://vibe-security.github.io/vibe-security-suite/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
-<p>The blog supports tags as well!</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content:encoded>
-            <category>Facebook</category>
-            <category>Hello</category>
-            <category>Docusaurus</category>
-        </item>
-        <item>
-            <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://vibe-security.github.io/vibe-security-suite/blog/mdx-blog-post</link>
-            <guid>https://vibe-security.github.io/vibe-security-suite/blog/mdx-blog-post</guid>
-            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
-            <content:encoded><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>Use the power of React to create interactive blog posts.</p></div></div>
-<!-- -->
-<p>For example, use JSX to create an interactive button:</p>
-<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">alert</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'button clicked!'</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator" style="color:#393A34">!</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token plain">button</span><span class="token operator" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<button>Click me!</button>]]></content:encoded>
-            <category>Docusaurus</category>
-        </item>
-        <item>
-            <title><![CDATA[Long Blog Post]]></title>
-            <link>https://vibe-security.github.io/vibe-security-suite/blog/long-blog-post</link>
-            <guid>https://vibe-security.github.io/vibe-security-suite/blog/long-blog-post</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is the summary of a very long blog post,]]></description>
-            <content:encoded><![CDATA[<p>This is the summary of a very long blog post,</p>
-<p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ai-assisted-coding">AI-Assisted Coding<a href="https://vibe-security.github.io/vibe-security-suite/blog/ai-trends-2025#ai-assisted-coding" class="hash-link" aria-label="Direct link to AI-Assisted Coding" title="Direct link to AI-Assisted Coding">​</a></h2>
+<p>Developers now rely on AI for:</p>
+<ul>
+<li>Secure code suggestions</li>
+<li>Automated code reviews</li>
+<li>Learning best practices as they work</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="practical-tips">Practical Tips<a href="https://vibe-security.github.io/vibe-security-suite/blog/ai-trends-2025#practical-tips" class="hash-link" aria-label="Direct link to Practical Tips" title="Direct link to Practical Tips">​</a></h2>
+<ul>
+<li>Integrate AI-powered scans into your CI/CD pipeline</li>
+<li>Use Vibe Security CLI locally to catch issues before pushing code</li>
+<li>Stay up to date with the latest AI-driven security advisories</li>
+</ul>
+<p>Want to share your experience with AI and security? Reach out to the Vibe Security Suite team or contribute your own post!</p>
+<hr>
+<p><strong>Read more:</strong></p>
+<ul>
+<li><a href="https://vibe-security.github.io/vibe-security-suite/blog/welcome-2025">Welcome to the Vibe Security Suite Blog!</a></li>
+<li><a href="https://vibe-security.github.io/vibe-security-suite/blog/security-trends-2025">Security Trends in 2025: Open Source, Dev-First, and AI</a></li>
+</ul>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
@@ -69,19 +58,82 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>Hello</category>
-            <category>Docusaurus</category>
         </item>
         <item>
-            <title><![CDATA[First Blog Post]]></title>
-            <link>https://vibe-security.github.io/vibe-security-suite/blog/first-blog-post</link>
-            <guid>https://vibe-security.github.io/vibe-security-suite/blog/first-blog-post</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet...]]></description>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
-<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>Hola</category>
-            <category>Docusaurus</category>
+            <title><![CDATA[Security Trends in 2025: Open Source, Dev-First, and AI]]></title>
+            <link>https://vibe-security.github.io/vibe-security-suite/blog/security-trends-2025</link>
+            <guid>https://vibe-security.github.io/vibe-security-suite/blog/security-trends-2025</guid>
+            <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the Vibe Security Suite blog! In 2025, the security landscape is evolving faster than ever. Here are the top trends shaping the year:]]></description>
+            <content:encoded><![CDATA[<p>Welcome to the Vibe Security Suite blog! In 2025, the security landscape is evolving faster than ever. Here are the top trends shaping the year:</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="1-open-source-security-goes-mainstream">1. Open Source Security Goes Mainstream<a href="https://vibe-security.github.io/vibe-security-suite/blog/security-trends-2025#1-open-source-security-goes-mainstream" class="hash-link" aria-label="Direct link to 1. Open Source Security Goes Mainstream" title="Direct link to 1. Open Source Security Goes Mainstream">​</a></h2>
+<p>Open source security tools are now the backbone of modern development. Projects like Vibe Security Suite empower teams to adopt best practices without vendor lock-in.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2-developer-first-security">2. Developer-First Security<a href="https://vibe-security.github.io/vibe-security-suite/blog/security-trends-2025#2-developer-first-security" class="hash-link" aria-label="Direct link to 2. Developer-First Security" title="Direct link to 2. Developer-First Security">​</a></h2>
+<p>Security is shifting left—developers are running scans locally and in CI/CD, catching issues before code even reaches production.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="3-ai-powered-threat-detection">3. AI-Powered Threat Detection<a href="https://vibe-security.github.io/vibe-security-suite/blog/security-trends-2025#3-ai-powered-threat-detection" class="hash-link" aria-label="Direct link to 3. AI-Powered Threat Detection" title="Direct link to 3. AI-Powered Threat Detection">​</a></h2>
+<p>AI and machine learning are now essential for identifying threats at scale. From code analysis to anomaly detection, AI is everywhere.</p>
+<p>Stay tuned for more insights, tutorials, and updates from the Vibe Security community!</p>
+<hr>
+<p><strong>Read more:</strong></p>
+<ul>
+<li><a href="https://vibe-security.github.io/vibe-security-suite/blog/welcome-2025">Welcome to the Vibe Security Suite Blog!</a></li>
+<li><a href="https://vibe-security.github.io/vibe-security-suite/blog/ai-trends-2025">How AI Is Transforming Security &amp; Coding in 2025</a></li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Building Interactive Security Dashboards with MDX & React (2025)]]></title>
+            <link>https://vibe-security.github.io/vibe-security-suite/blog/mdx-security-dashboard-2025</link>
+            <guid>https://vibe-security.github.io/vibe-security-suite/blog/mdx-security-dashboard-2025</guid>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[In 2025, security dashboards are more interactive than ever—thanks to MDX and React! With Vibe Security Suite, you can embed live components, charts, and even trigger scans directly from your documentation or blog.]]></description>
+            <content:encoded><![CDATA[<p>In 2025, security dashboards are more interactive than ever—thanks to MDX and React! With Vibe Security Suite, you can embed live components, charts, and even trigger scans directly from your documentation or blog.</p>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>MDX lets you mix Markdown and React. Build dynamic security dashboards or embed live scan results right in your docs!</p></div></div>
+<!-- -->
+<p>Here’s a simple example—an interactive button to trigger a (simulated) security scan:</p>
+<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">alert</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'Vibe Security Scan started!'</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token maybe-class-name">Run</span><span class="token plain"> </span><span class="token maybe-class-name">Security</span><span class="token plain"> </span><span class="token maybe-class-name">Scan</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token plain">button</span><span class="token operator" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<button>Run Security Scan</button>
+<p>Want to learn more? Check out our <a href="https://vibe-security.github.io/vibe-security-suite/docs/cli">CLI usage guide</a> or contribute your own MDX-powered dashboard!</p>
+<hr>
+<p><strong>Read more:</strong></p>
+<ul>
+<li><a href="https://vibe-security.github.io/vibe-security-suite/blog/welcome-2025">Welcome to the Vibe Security Suite Blog!</a></li>
+<li><a href="https://vibe-security.github.io/vibe-security-suite/blog/security-trends-2025">Security Trends in 2025: Open Source, Dev-First, and AI</a></li>
+<li><a href="https://vibe-security.github.io/vibe-security-suite/blog/ai-trends-2025">How AI Is Transforming Security &amp; Coding in 2025</a></li>
+</ul>]]></content:encoded>
+            <category>mdx</category>
+            <category>react</category>
+            <category>Security</category>
+            <category>Dashboard</category>
+            <category>Vibe Security Suite</category>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to the Vibe Security Suite Blog!]]></title>
+            <link>https://vibe-security.github.io/vibe-security-suite/blog/welcome-2025</link>
+            <guid>https://vibe-security.github.io/vibe-security-suite/blog/welcome-2025</guid>
+            <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the official Vibe Security Suite blog! Here you'll find updates on open-source security, developer-first tools, and the latest trends in AI-driven security for 2025 and beyond.]]></description>
+            <content:encoded><![CDATA[<p>Welcome to the official Vibe Security Suite blog! Here you'll find updates on open-source security, developer-first tools, and the latest trends in AI-driven security for 2025 and beyond.</p>
+<p>Stay tuned for tutorials, release notes, and community highlights. We're excited to have you join us on this journey to make security accessible, powerful, and open for everyone.</p>
+<hr>
+<p><strong>Read more:</strong></p>
+<ul>
+<li><a href="https://vibe-security.github.io/vibe-security-suite/blog/security-trends-2025">Security Trends in 2025: Open Source, Dev-First, and AI</a></li>
+<li><a href="https://vibe-security.github.io/vibe-security-suite/blog/ai-trends-2025">How AI Is Transforming Security &amp; Coding in 2025</a></li>
+</ul>
+<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
+<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
+<p>The blog post date can be extracted from filenames, such as:</p>
+<ul>
+<li><code>2019-05-30-welcome.md</code></li>
+<li><code>2019-05-30-welcome/index.md</code></li>
+</ul>
+<p>A blog post folder can be convenient to co-locate blog post images:</p>
+<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://vibe-security.github.io/vibe-security-suite/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
+<p>The blog supports tags as well!</p>
+<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content:encoded>
+            <category>Welcome</category>
+            <category>Vibe Security Suite</category>
+            <category>Announcement</category>
         </item>
     </channel>
 </rss>
