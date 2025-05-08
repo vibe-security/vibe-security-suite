@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="vibe-security-logo.png" alt="Vibe Security Logo" width="160"/>
+  <img src="https://raw.githubusercontent.com/vibe-security/vibe-security-suite/main/vibe-security-logo.png" alt="Vibe Security Logo" width="160"/>
 </div>
 
 # Vibe Security Suite
