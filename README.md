@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="docs-site/static/img/vibe-security-logo.png" alt="Vibe Security Logo" width="160"/>
+</div>
+
 # Vibe Security Suite
 
 A modular, open-source security toolkit for modern development teams. This suite brings together CLI, GitHub Action, and Docker tools for comprehensive code, dependency, and container scanning.
