@@ -67,10 +67,10 @@ const config: Config = {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Vibe Security Suite',
-      // logo: {
-//   alt: 'Vibe Security Logo',
-//   src: 'img/logo.svg',
-// },
+      logo: {
+  alt: 'Vibe Security Logo',
+  src: 'img/vibe-security-logo.png',
+},
       items: [
         {
           type: 'docSidebar',
