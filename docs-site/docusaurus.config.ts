@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Vibe Security Suite',
-  tagline: 'Unified Open-Source Security for Modern Teams',
+  tagline: 'Unified Open-Source Security for Vibe Coding',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
